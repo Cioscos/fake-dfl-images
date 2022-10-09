@@ -1,0 +1,5 @@
+# Ignore all folders
+./*
+
+# but not...
+!./xlib
