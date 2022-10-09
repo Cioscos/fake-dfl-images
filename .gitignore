@@ -1,5 +1,6 @@
 # Ignore all folders
-./*
+*
 
 # but not...
-!./xlib
+!xlib/
+!*.py
